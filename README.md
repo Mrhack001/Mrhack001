@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Mrhack001
+- 👀 I’m interested in working foe you as a softwre developr ...
+- 🌱 I’m currently learning  amd also am very good at using html ,fss nad javascropt woth react js...
+- 💞️ I’m looking to collaborate on working o  your company projects...
+- 📫 How to reach me contact me on phone by +234 7080114376 or use my mail to message me moshoodmuadh@gmail.com...
+  
+- ⚡ Fun fact: i lobe watching movies ..
+
+<!---
+Mrhack001/Mrhack001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+i am a software developer.
